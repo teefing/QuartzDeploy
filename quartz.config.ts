@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     locale: "zh-CN",
     baseUrl: "garden.oldwinter.top",
     ignorePatterns: ["private", "templates", ".obsidian","Atlas","Calendar","Cards", "Extras","Sources", "Spaces"],
-    defaultDateType: "modified",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: false,
@@ -52,7 +52,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
