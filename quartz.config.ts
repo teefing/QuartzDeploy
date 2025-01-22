@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🌱 oldwinterの数字花园",
-    enableSPA: false,
+    enableSPA: true,
     pageTitleSuffix: "",
     enablePopovers: true,
     analytics: {
