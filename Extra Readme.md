@@ -10,3 +10,10 @@ content改成直接上传，方便管理，而非之前的通过git submodule的
 npm install
 npx quartz build --serve
 ```
+
+## netlify 或 vercel 部署
+
+Build command 命令更改：
+```bash
+mv content/AboutTheGarden.md content/index.md && npx quartz build
+```
