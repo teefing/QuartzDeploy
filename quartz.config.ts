@@ -2,7 +2,7 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4 Configuration
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
@@ -20,12 +20,6 @@ const config: QuartzConfig = {
     baseUrl: "garden.oldwinter.top",
     ignorePatterns: ["private", "templates", ".obsidian","Atlas","Calendar","Cards", "Extras","Sources", "Spaces", "**/*.excalidraw.md"],
     defaultDateType: "modified",
-    generateSocialImages: {
-      colorScheme: "lightMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
-      width: 1200, // width to generate with (in pixels)
-      height: 630, // height to generate with (in pixels)
-      excludeRoot: false, // wether to exclude "/" index path to be excluded from auto generated images (false = use auto, true = use default og image)
-    },    
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -64,7 +58,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -95,7 +89,14 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
+      Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      // Comment out CustomOgImages to speed up build time
+      // Plugin.CustomOgImages({
+      //   colorScheme: "lightMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
+      //   width: 1200, // width to generate with (in pixels)
+      //   height: 630, // height to generate with (in pixels)
+      // }),
     ],
   },
 }
