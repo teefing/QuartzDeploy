@@ -21,6 +21,36 @@
   }
 }
 
+// 阅读模式开启时的图标显示
+:root[reader-mode="on"] .readermode {
+  & > .readerOnIcon {
+    display: inline;
+  }
+  & > .readerOffIcon {
+    display: none;
+  }
+}
+
+// 阅读模式关闭时的图标显示
+:root[reader-mode="off"] .readermode {
+  & > .readerOnIcon {
+    display: none;
+  }
+  & > .readerOffIcon {
+    display: inline;
+  }
+}
+
+// 默认状态（如果没有设置reader-mode属性时）
+:root:not([reader-mode]) .readermode {
+  & > .readerOnIcon {
+    display: inline;
+  }
+  & > .readerOffIcon {
+    display: none;
+  }
+}
+
 :root[reader-mode="on"] {
   & .sidebar.left,
   & .sidebar.right {
