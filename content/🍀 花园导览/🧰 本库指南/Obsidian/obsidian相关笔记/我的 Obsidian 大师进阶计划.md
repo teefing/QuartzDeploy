@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/我的 Obsidian 大师进阶计划.md","title":"我的 Obsidian 大师进阶计划","created":"2025-01-27","modified":"2025-01-27","published":"2025-07-07T17:10:24.412+08:00","tags":["obsidian","学习计划","个人成长"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/我的 Obsidian 大师进阶计划.md","title":"我的 Obsidian 大师进阶计划","created":"2025-01-27","modified":"2025-01-27","published":"2025-07-08T03:32:49.158+08:00","tags":["obsidian","学习计划","个人成长"],"cssclasses":""}
 ---
 
 
@@ -20,8 +20,8 @@
 
 **本周重点：熟悉现有知识库结构**
 
-- [ ] 深入阅读 [[🧰 本库指南/🧰 本库使用指南]]
-- [ ] 理解 [[🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]
+- [ ] 深入阅读 [[🍀 花园导览/🧰 本库指南/🧰 本库使用指南]]
+- [ ] 理解 [[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]
 - [ ] 熟悉各文件夹用途和工作流
 - [ ] 建立每日笔记习惯 [[Spaces/2-Area/数字花园建设与维护/» Daily notes工作流]]
 - [ ] 掌握双链 `[[]]` 和标签 `#` 的使用
@@ -80,10 +80,10 @@
 ## 📚 学习资源
 
 ### 本库核心文档
-- [[🧰 本库指南/🧰 本库使用指南]]
-- [[🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]
-- [[🧰 本库指南/Tutorials/本库推荐的obsidian入门路线及资源]]
-- [[🧰 本库指南/Tutorials/∑ 本库obsidian基本配置及原因]]
+- [[🍀 花园导览/🧰 本库指南/🧰 本库使用指南]]
+- [[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]
+- [[🍀 花园导览/🧰 本库指南/Tutorials/本库推荐的obsidian入门路线及资源]]
+- [[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库obsidian基本配置及原因]]
 
 ### 外部资源
 - Obsidian 官方文档
@@ -127,7 +127,7 @@
 
 ## 🔗 相关链接
 
-- [[_🍀 花园导览 Readme]]
+- [[🍀 花园导览/🍀 花园导览]]
 - [[Atlas/_ Atlas Readme]]
 - [[Cards/一元化收集]]
 - [[Calendar/Daily notes]]
