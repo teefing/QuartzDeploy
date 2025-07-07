@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/众多双链笔记中我选obsidian的核心原因.md","title":"众多双链笔记中我选obsidian的核心原因","created":"2022-08-18","modified":"2023-03-14","published":"2025-07-07T16:50:55.578+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/众多双链笔记中我选obsidian的核心原因.md","title":"众多双链笔记中我选obsidian的核心原因","created":"2022-08-18","modified":"2023-03-14","published":"2025-07-07T17:10:23.960+08:00","cssclasses":""}
 ---
 
 以下是当初在众多双链笔记软件中选择它的初始原因，即初心。
@@ -10,9 +10,9 @@
 - 用户规模大且社区活跃。碰到问题，搜一搜社区，总能带来惊喜，无需自己反复踩坑或者重复造轮子解决问题。比如markdown格式自动化的插件，比如输入自动提示的[[🧰 本库指南/Obsidian/Plugins/Various Complements]]插件，不一而足。
 	- 当然，换个角度理解，也可以认为过度发达的插件社区，也能证明obsidian本体的某些功能的缺失和不完善。但我觉得这个度，obsidian开发者把握得挺好。
 
-其他的原因，可能也是一部分，但都没有这3个原因这么根本，我看过一个视频，也许对你选择入坑什么笔记软件有所帮助：[[🧰 本库指南/Obsidian/教程/📹放弃roam用obsidian的理由]]
+其他的原因，可能也是一部分，但都没有这3个原因这么根本，我看过一个视频，也许对你选择入坑什么笔记软件有所帮助：[[🧰 本库指南/Obsidian/obsidian相关笔记/📹放弃roam用obsidian的理由]]
 
 在使用了一段时间后，发现一些缺点，当然也进一步发现一些优点：  
 
 - [[Spaces/Published/已发布文章/obsidian 不可回避的缺点及其解决方案]]
-- [[🧰 本库指南/Obsidian/教程/obsidian 让我爱不释手的功能和细节]]
+- [[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian 让我爱不释手的功能和细节]]

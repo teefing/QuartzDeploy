@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库使用的obsidian第三方插件及原因.md","title":"本库使用的obsidian第三方插件及原因","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-07T16:50:55.610+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库使用的obsidian第三方插件及原因.md","title":"本库使用的obsidian第三方插件及原因","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-07T17:10:23.992+08:00","cssclasses":""}
 ---
 
 up:: [[🧰 本库指南/Obsidian/Plugins/∑ obsidian插件]]  

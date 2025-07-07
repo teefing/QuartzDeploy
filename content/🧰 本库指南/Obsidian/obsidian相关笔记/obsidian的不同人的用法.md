@@ -2,7 +2,7 @@
 title: obsidian的不同人的用法
 date created: 2023-02-24
 date modified: 2023-03-14
-publish: "true"
+publish: true
 ---
 
 - markdown编辑器  

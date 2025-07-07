@@ -1,7 +1,6 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian 从md导出成pdf以及word.md","created":"2025-04-04T01:18:06.119+08:00","modified":"2025-07-07T17:02:17.656+08:00","published":"2025-07-07T17:02:17.656+08:00","cssclasses":""}
+publish: true
 ---
-
 
 新发现，用[[Cards/飞书文档]]做中转：[[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian md文档导入到其他docx企业微信文档等地方的方法]]
 

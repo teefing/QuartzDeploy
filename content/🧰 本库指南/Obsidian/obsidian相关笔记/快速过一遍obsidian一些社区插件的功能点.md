@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/快速过一遍obsidian一些社区插件的功能点.md","created":"2023-12-27","modified":"2023-12-27","published":"2025-07-07T17:02:18.559+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/快速过一遍obsidian一些社区插件的功能点.md","created":"2023-12-27","modified":"2023-12-27","published":"2025-07-07T17:10:24.163+08:00","cssclasses":""}
 ---
 
 - [[3d graph]]

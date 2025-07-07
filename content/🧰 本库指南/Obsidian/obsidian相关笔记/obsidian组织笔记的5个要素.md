@@ -2,7 +2,7 @@
 date created: 2022-06-30
 date modified: 2023-03-14
 title: obsidian组织笔记的5个要素
-publish: "true"
+publish: true
 ---
 
 x:: [[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian组织笔记的N个 xx first]]

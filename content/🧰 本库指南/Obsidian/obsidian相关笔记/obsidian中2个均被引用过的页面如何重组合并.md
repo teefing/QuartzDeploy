@@ -2,7 +2,7 @@
 date created: 2022-08-09
 date modified: 2023-03-14
 title: obsidian中2个均被引用过的页面如何重组合并
-publish: "true"
+publish: true
 ---
 
 使用核心插件：[[note composer - 笔记重组]]。

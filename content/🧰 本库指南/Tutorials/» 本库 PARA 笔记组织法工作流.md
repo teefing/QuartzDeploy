@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/» 本库 PARA 笔记组织法工作流.md","title":"» 本库 PARA 笔记组织法工作流","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-07T16:50:55.438+08:00","tags":["本库教程"],"cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/» 本库 PARA 笔记组织法工作流.md","title":"» 本库 PARA 笔记组织法工作流","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","tags":["本库教程"],"cssclasses":""}
 ---
 
 x:: [[Spaces/2-Area/知识管理/P.A.R.A]], [[Spaces/2-Area/数字花园建设与维护/∑ Building a Second Brain 翻译和读书笔记]]

@@ -2,7 +2,7 @@
 title: obsidian做presentation展示的方法技巧
 date created: 2023-02-15
 date modified: 2023-03-14
-publish: "true"
+publish: true
 ---
 
 ## 考虑的点

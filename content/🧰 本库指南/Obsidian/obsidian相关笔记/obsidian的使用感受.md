@@ -2,7 +2,7 @@
 date created: 2022-06-09
 date modified: 2023-03-14
 title: obsidian的使用感受
-publish: "true"
+publish: true
 ---
 
 obsidian 的使用感受

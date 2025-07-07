@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian如何做英文阅读笔记.md","title":"obsidian如何做英文阅读笔记","created":"2022-07-06","modified":"2023-03-14","published":"2025-07-07T17:02:18.045+08:00","tags":["todo"],"cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian如何做英文阅读笔记.md","title":"obsidian如何做英文阅读笔记","created":"2022-07-06","modified":"2023-03-14","published":"2025-07-07T17:10:23.996+08:00","tags":["todo"],"cssclasses":""}
 ---
 
 

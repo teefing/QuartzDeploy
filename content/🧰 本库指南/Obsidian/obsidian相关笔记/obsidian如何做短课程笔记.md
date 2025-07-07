@@ -2,7 +2,7 @@
 date created: 2022-07-26
 date modified: 2023-03-14
 title: obsidian如何做短课程笔记
-publish: "true"
+publish: true
 ---
 
 up:: [[Sources/Courses/» 课程笔记工作流]]

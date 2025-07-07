@@ -2,7 +2,7 @@
 date created: 2022-08-08
 date modified: 2023-03-14
 title: obsidian 搜索技巧
-publish: "true"
+publish: true
 ---
 
 [搜索 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E6%90%9C%E7%B4%A2)

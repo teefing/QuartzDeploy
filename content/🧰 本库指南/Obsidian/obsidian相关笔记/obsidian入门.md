@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian入门.md","title":"obsidian入门","created":"2022-06-09","modified":"2025-07-05","published":"2025-07-07T17:02:18.004+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian入门.md","title":"obsidian入门","created":"2022-06-09","modified":"2025-07-05","published":"2025-07-07T17:10:23.996+08:00","cssclasses":""}
 ---
 
 

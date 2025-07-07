@@ -2,7 +2,7 @@
 date created: 2022-07-27
 date modified: 2023-03-14
 title: obsidian publish 发布 主题定制
-publish: "true"
+publish: true
 ---
 
 x:: [[Cards/minimal主题的publish.js参考]]

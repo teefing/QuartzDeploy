@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库不建议在obsidian中做Iframe嵌入.md","title":"本库不建议在obsidian中做Iframe嵌入","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-07T16:50:55.591+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库不建议在obsidian中做Iframe嵌入.md","title":"本库不建议在obsidian中做Iframe嵌入","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-07T17:10:23.992+08:00","cssclasses":""}
 ---
 
 如[[🧰 本库指南/Tutorials/本库不建议在obsidian中搞太多奇技淫巧]]所言，使用Iframe嵌入各种web网站到obsidian中，其实也算奇技淫巧的一种。

@@ -1,10 +1,10 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总.md","title":"∑ 本库 ACCESS 工作流汇总","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-07T16:50:55.558+08:00","tags":["moc","todo/持续迭代"],"cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总.md","title":"∑ 本库 ACCESS 工作流汇总","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","tags":["moc","todo/持续迭代"],"cssclasses":""}
 ---
 
 up: [[Spaces/2-Area/知识管理/ACCESS 笔记组织法]]
 
-根据对obsidian的使用目标不同，分为3个层次，难度逐渐加大，因人而异。更多的层次划分，见[[🧰 本库指南/Obsidian/教程/obsidian的不同人的用法]]。
+根据对obsidian的使用目标不同，分为3个层次，难度逐渐加大，因人而异。更多的层次划分，见[[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian的不同人的用法]]。
 
 1. 将obsidian的库作为一个卡片笔记盒。只使用obsidian进行每天的闪念记录，工作日志记录等。
 	- 使用[[Spaces/2-Area/数字花园建设与维护/» Daily notes工作流]]即可，只保留Calendar和Cards文件夹即可，其他文件夹通通删掉，用不到。

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/如果要我安利obsidian给别人，我会怎么做.md","title":"如果要我安利obsidian给别人，我会怎么做","created":"2022-06-09","modified":"2023-03-14","published":"2025-07-07T17:02:18.483+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/如果要我安利obsidian给别人，我会怎么做.md","title":"如果要我安利obsidian给别人，我会怎么做","created":"2022-06-09","modified":"2023-03-14","published":"2025-07-07T17:10:24.430+08:00","cssclasses":""}
 ---
 
 

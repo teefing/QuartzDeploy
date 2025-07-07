@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库如何自动每日同步至github.md","title":"本库如何自动每日同步至github","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-07T16:50:55.637+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库如何自动每日同步至github.md","title":"本库如何自动每日同步至github","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","cssclasses":""}
 ---
 
 [[🧰 本库指南/Tutorials/本库如何指定笔记同步至github]]

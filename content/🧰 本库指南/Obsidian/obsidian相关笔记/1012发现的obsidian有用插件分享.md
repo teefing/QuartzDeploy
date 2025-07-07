@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/1012发现的obsidian有用插件分享.md","created":"2023-10-12","modified":"2023-10-12","published":"2025-07-07T17:02:17.594+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/1012发现的obsidian有用插件分享.md","created":"2023-10-12","modified":"2023-10-12","published":"2025-07-07T17:10:23.996+08:00","cssclasses":""}
 ---
 
 ## 这2个月刚发现，并已经高频使用的插件

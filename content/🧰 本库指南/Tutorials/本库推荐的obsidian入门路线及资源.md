@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库推荐的obsidian入门路线及资源.md","title":"本库推荐的obsidian入门路线及资源","created":"2022-07-14","modified":"2023-03-14","published":"2025-07-07T16:50:55.646+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/本库推荐的obsidian入门路线及资源.md","title":"本库推荐的obsidian入门路线及资源","created":"2022-07-14","modified":"2023-03-14","published":"2025-07-07T17:10:23.996+08:00","cssclasses":""}
 ---
 
 up:: [[🧰 本库指南/🧰 本库使用指南]]
@@ -24,7 +24,7 @@ up:: [[🧰 本库指南/🧰 本库使用指南]]
 
 ## 然后看看别人的示例库
 
-- [[🧰 本库指南/Obsidian/教程/obsidian开箱即用示例库]]
+- [[🧰 本库指南/Obsidian/obsidian相关笔记/obsidian开箱即用示例库]]
 	- 各种示例库也是做的大而全，且美化为主，请注意不要迷失，选择对自己有用的东西模仿和学习即可。时刻提醒自己，你的笔记库，第一目的是服务自己，帮助自己更好地思考、提问和决策，不是为了美化给别人看获取认同的。
 
 ## 最不推荐的方式，但这里还是要提一下

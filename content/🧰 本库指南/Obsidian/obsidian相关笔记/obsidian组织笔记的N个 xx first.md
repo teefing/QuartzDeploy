@@ -2,7 +2,7 @@
 date created: 2022-08-11
 date modified: 2023-03-14
 title: obsidian组织笔记的N个 xx first
-publish: "true"
+publish: true
 ---
 
 - [[🧰 本库指南/Tutorials/链接优先\|link first]]

@@ -2,7 +2,7 @@
 date created: 2022-06-09
 date modified: 2023-03-14
 title: obsidian与alfred联动
-publish: "true"
+publish: true
 ---
 
 [chrisgrieser/shimmering-obsidian: Alfred Workflow for various enhancements of Obsidian. (github.com)](https://github.com/chrisgrieser/shimmering-obsidian)

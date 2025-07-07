@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/我的 Obsidian 大师进阶计划.md","title":"我的 Obsidian 大师进阶计划","created":"2025-01-27","modified":"2025-01-27","published":"2025-07-07T17:02:18.580+08:00","tags":["obsidian","学习计划","个人成长"],"cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/我的 Obsidian 大师进阶计划.md","title":"我的 Obsidian 大师进阶计划","created":"2025-01-27","modified":"2025-01-27","published":"2025-07-07T17:10:24.412+08:00","tags":["obsidian","学习计划","个人成长"],"cssclasses":""}
 ---
 
 

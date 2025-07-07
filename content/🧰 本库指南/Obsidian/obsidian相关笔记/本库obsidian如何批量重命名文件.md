@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/本库obsidian如何批量重命名文件.md","title":"本库obsidian如何批量重命名文件","created":"2022-08-24","modified":"2023-03-14","published":"2025-07-07T17:02:18.591+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/本库obsidian如何批量重命名文件.md","title":"本库obsidian如何批量重命名文件","created":"2022-08-24","modified":"2023-03-14","published":"2025-07-07T17:10:23.997+08:00","cssclasses":""}
 ---
 
 

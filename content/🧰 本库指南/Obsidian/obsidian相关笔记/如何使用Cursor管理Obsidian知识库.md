@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/如何使用Cursor管理Obsidian知识库.md","created":"2025-06-25","modified":"2025-06-25","published":"2025-07-07T17:02:18.410+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/如何使用Cursor管理Obsidian知识库.md","created":"2025-06-25","modified":"2025-06-25","published":"2025-07-07T17:10:24.347+08:00","cssclasses":""}
 ---
 
 

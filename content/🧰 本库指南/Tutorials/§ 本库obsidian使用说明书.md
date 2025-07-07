@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/§ 本库obsidian使用说明书.md","title":"§ 本库obsidian使用说明书","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-07T16:50:55.551+08:00","tags":["目录笔记","todo/某天"],"cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/§ 本库obsidian使用说明书.md","title":"§ 本库obsidian使用说明书","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","tags":["目录笔记","todo/某天"],"cssclasses":""}
 ---
 
 x:: [[🧰 本库指南/Tutorials/» 本库tutorial编写工作流]]

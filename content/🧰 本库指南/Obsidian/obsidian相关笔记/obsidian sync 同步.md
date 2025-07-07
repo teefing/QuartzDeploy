@@ -2,7 +2,7 @@
 date created: 2022-06-09
 date modified: 2023-03-14
 title: obsidian sync 同步
-publish: "true"
+publish: true
 ---
 
 [[Cards/Remotely Save]]和[[Spaces/2-Area/云服务和部署/LiveSync]] 各有优劣，前者实时性差且插件同步体验差，但简单方便。后者需要折腾太长时间。

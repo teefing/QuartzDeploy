@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/∑ 本库obsidian基本配置及原因.md","title":"∑ 本库obsidian基本配置及原因","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-07T16:50:55.563+08:00","tags":["moc"],"cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/∑ 本库obsidian基本配置及原因.md","title":"∑ 本库obsidian基本配置及原因","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-07T17:10:23.960+08:00","tags":["moc"],"cssclasses":""}
 ---
 
 只选个人认为重要的配置项，说明原因。
