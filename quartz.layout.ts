@@ -5,7 +5,10 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Backlinks(),
+    Component.Graph(),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/oldwinter/dg3",
@@ -27,15 +30,20 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes({ limit: 5, showTags: false })),
+    Component.Flex({
+      components: [
+        { Component: Component.Search(), grow: true },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+      direction: "row",
+      gap: "0.5rem",
+    }),
+    // Component.DesktopOnly(Component.RecentNotes({ limit: 5, showTags: false })),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-    Component.Graph(), 
   ],
 }
 
@@ -45,9 +53,16 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes({ limit: 5, showTags: false })),
+    Component.Flex({
+      components: [
+        { Component: Component.Search(), grow: true },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+      direction: "row",
+      gap: "0.5rem",
+    }),
+    // Component.DesktopOnly(Component.RecentNotes({ limit: 5, showTags: false })),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],

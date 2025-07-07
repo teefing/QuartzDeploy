@@ -12,20 +12,17 @@ const config: QuartzConfig = {
     enableSPA: true,
     pageTitleSuffix: "",
     enablePopovers: true,
-    analytics: {
-      provider: "google",
-      tagId: "G-11MD77L81V",
-    },
+    analytics: null,
     locale: "zh-CN",
     baseUrl: "garden.oldwinter.top",
-    ignorePatterns: ["private", "templates", ".obsidian","Atlas","Calendar","Cards", "Extras","Sources", "Spaces", "**/*.excalidraw.md"],
+    ignorePatterns: ["private", "**/*.excalidraw.md"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "LXGW WenKai",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -84,13 +81,14 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
-        rssLimit: 10,
+        rssLimit: 30,
         rssFullHtml: true
       }),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+      
       // Comment out CustomOgImages to speed up build time
       // Plugin.CustomOgImages({
       //   colorScheme: "lightMode", // what colors to use for generating image, same as theme colors from config, valid values are "darkMode" and "lightMode"
