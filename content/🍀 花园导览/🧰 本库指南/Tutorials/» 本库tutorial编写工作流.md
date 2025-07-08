@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Tutorials/» 本库tutorial编写工作流.md","title":"» 本库tutorial编写工作流","created":"2022-08-07","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Tutorials/» 本库tutorial编写工作流.md","title":"» 本库tutorial编写工作流","created":"2022-08-07","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","cssclasses":""}
 ---
 
 提问：
@@ -10,8 +10,8 @@
 
 步骤：
 
-- 从[[🧰 本库指南/Tutorials/§ 本库obsidian使用说明书]]找寻灵感和原始材料。
-- 从[[🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]找合适的位置插入新链接并新建。
-- 检查其在[[🧰 本库指南/Tutorials/∑ 本库 ACCESS 的文件夹入口汇总]]的位置。
+- 从[[🍀 花园导览/🧰 本库指南/Tutorials/§ 本库obsidian使用说明书]]找寻灵感和原始材料。
+- 从[[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]找合适的位置插入新链接并新建。
+- 检查其在[[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库 ACCESS 的文件夹入口汇总]]的位置。
 - 写完后自己按照说明操作一遍补充可能遗留的细节。
 - 编写过程中，已经弃用或很少用的工作流，舍得去删除。
