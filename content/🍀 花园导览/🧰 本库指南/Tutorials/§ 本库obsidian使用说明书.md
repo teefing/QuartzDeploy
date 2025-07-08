@@ -1,21 +1,21 @@
 ---
-{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Tutorials/§ 本库obsidian使用说明书.md","title":"§ 本库obsidian使用说明书","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","tags":["目录笔记","todo/某天"],"cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/§ 本库obsidian使用说明书.md","title":"§ 本库obsidian使用说明书","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-07T17:10:23.950+08:00","tags":["目录笔记","todo/某天"],"cssclasses":""}
 ---
 
-x:: [[🍀 花园导览/🧰 本库指南/Tutorials/» 本库tutorial编写工作流]]
+x:: [[🧰 本库指南/Tutorials/» 本库tutorial编写工作流]]
 
-整理出给读者看的[[🍀 花园导览/🧰 本库指南/🧰 本库使用指南]]。
+整理出给读者看的[[🧰 本库指南/🧰 本库使用指南]]。
 
 > 写给自己看，记录且演进
 
-- [[🍀 花园导览/🧰 本库指南/Tutorials/本库推荐的obsidian入门路线及资源]]
-- [[🍀 花园导览/🧰 本库指南/Tutorials/本库使用的主题及原因]]
-- [[🍀 花园导览/🧰 本库指南/Tutorials/本库常用的快捷键及作用]]
-- [[🍀 花园导览/🧰 本库指南/Tutorials/本库工作区、界面划分逻辑及图标]]
-- [[🍀 花园导览/🧰 本库指南/Tutorials/本库设计哲学及理念]]。
-- [[🍀 花园导览/🧰 本库指南/Tutorials/本库需要单独配置的插件]]。
-- [[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]。
-- [[🍀 花园导览/🧰 本库指南/Tutorials/∑ 本库obsidian基本配置及原因]]
+- [[🧰 本库指南/Tutorials/本库推荐的obsidian入门路线及资源]]
+- [[🧰 本库指南/Tutorials/本库使用的主题及原因]]
+- [[🧰 本库指南/Tutorials/本库常用的快捷键及作用]]
+- [[🧰 本库指南/Tutorials/本库工作区、界面划分逻辑及图标]]
+- [[🧰 本库指南/Tutorials/本库设计哲学及理念]]。
+- [[🧰 本库指南/Tutorials/本库需要单独配置的插件]]。
+- [[🧰 本库指南/Tutorials/∑ 本库 ACCESS 工作流汇总]]。
+- [[🧰 本库指南/Tutorials/∑ 本库obsidian基本配置及原因]]
 
 [[旧笔记如何迁移至obsidian等双链笔记]]
 
@@ -29,7 +29,7 @@ x:: [[🍀 花园导览/🧰 本库指南/Tutorials/» 本库tutorial编写工�
 
 数学公式
 
-- []因为[[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/File Cooker]]这个插件，计划重新思考Spaces文件夹的意义和用法。待刷新 #todo/某天
+- []因为[[🧰 本库指南/Obsidian/Plugins/File Cooker]]这个插件，计划重新思考Spaces文件夹的意义和用法。待刷新 #todo/某天
 
 ## obsidian和外部的联动。
 

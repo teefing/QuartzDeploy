@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/README.md","title":"README","created":"2022-08-06","modified":"2025-07-08","published":"2025-07-08T22:41:02.398+08:00","tags":["本库教程"],"cssclasses":""}
+{"publish":true,"permalink":"/README.md","title":"README","created":"2022-08-06","modified":"2025-07-08","published":"2025-07-08T23:03:18.705+08:00","tags":["本库教程"],"cssclasses":""}
 ---
 
 
@@ -11,7 +11,7 @@
 </p>
 
 > [!TIP] 重大更新💡  
-> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/ChatGPT和LLM/ChatGPT]]、[[GEMINI\|Gemini]]、[[Sources/Clippings/ChatGPT/DeepSeek]]等应用的笔记，请到 release 中下载。
+> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/ChatGPT和LLM/ChatGPT]]、[[Spaces/1-Project/ChatGPT和LLM/Gemini\|Gemini]]、[[Spaces/1-Project/ChatGPT和LLM/DeepSeek]]等应用的笔记，请到 release 中下载。
 
 ## 这是什么
 
