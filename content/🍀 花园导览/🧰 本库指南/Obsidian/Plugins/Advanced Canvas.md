@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Advanced Canvas.md","created":"2024-05-11","modified":"2025-06-09","published":"2025-07-08T03:35:09.891+08:00","tags":["obsidian插件"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Advanced Canvas.md","created":"2024-05-11","modified":"2025-06-09","published":"2025-07-08T11:59:54.506+08:00","tags":["obsidian插件"],"cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/README.md","title":"README","created":"2022-08-06","modified":"2024-10-21","published":"2025-07-08T03:32:46.811+08:00","tags":["本库教程"],"cssclasses":""}
+{"publish":true,"permalink":"/README.md","title":"README","created":"2022-08-06","modified":"2025-07-08","published":"2025-07-08T22:41:02.398+08:00","tags":["本库教程"],"cssclasses":""}
 ---
 
 
@@ -7,14 +7,11 @@
 <img src="https://img.oldwinter.top/202208211431065.svg">
 <p align="center">
 	<a href="https://garden.oldwinter.top/README">主发布站</a> |
-	<a href="https://notes.oldwinter.top/README">备发布站</a> |
 	<a href="https://github.com/oldwinter/knowledge-garden">源代码仓</a>
 </p>
-<p align="center">📩订阅 <a href="https://oldwinter.zhubai.love/">我的newsletter通讯</a> 🛶随缘更</p>
 
 > [!TIP] 重大更新💡  
-> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/求职/ChatGPT]]、[[GEMINI\|Gemini]]、[[Sources/Clippings/ChatGPT/DeepSeek]]等应用的笔记，请到 release 中下载。
-
+> 迎接AI时代，本库发布 v2.0 版本，包含了大量使用[[Spaces/1-Project/ChatGPT和LLM/ChatGPT]]、[[GEMINI\|Gemini]]、[[Sources/Clippings/ChatGPT/DeepSeek]]等应用的笔记，请到 release 中下载。
 
 ## 这是什么
 
@@ -24,8 +21,8 @@
 
 ## 快速开始
 
-- 在线逛一逛。访问本库的 [主发布站](https://garden.oldwinter.top/README#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)[^1]，借助页面底部或右侧的 [[Cards/反向链接]] 面板随意漫游，感受 [[Cards/双链笔记]] 和 [[Spaces/2-Area/知识管理/卡片笔记]] 的魅力。这里是地图：[[🍀 花园导览/🍀 花园导览]]。
-- 下来用一用。`Use this template` 或 `Code -> Download ZIP` 本 [源代码仓](https://github.com/oldwinter/knowledge-garden)，并用 [[Spaces/3-Resource/软件梳理/macos软件/Obsidian]]、[[Spaces/3-Resource/软件梳理/macos软件/Logseq]][^2] 或 [[Spaces/3-Resource/软件梳理/macos软件/VSCode]][^3] 任意一款 app 打开本库后进行编辑和进一步探索。如果你也使用 obsidian，想鉴借本库的一些配置、插件以及使用理念，这里是传送门：[[🍀 花园导览/🧰 本库指南/🧰 本库使用指南]]。
+- 在线逛一逛。访问本库的 [主发布站](https://garden.oldwinter.top/README#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)，借助页面底部或右侧的 [[Cards/反向链接]] 面板随意漫游，感受 [[Cards/双链笔记]] 和 [[Spaces/2-Area/知识管理/卡片笔记]] 的魅力。这里是地图：[[🍀 花园导览/🍀 花园导览]]。
+- 下来用一用。`Use this template` 或 `Code -> Download ZIP` 本 [源代码仓](https://github.com/oldwinter/knowledge-garden)，并用 [[Spaces/3-Resource/软件梳理/macos软件/Obsidian]]或 [[Spaces/3-Resource/软件梳理/macos软件/VSCode]][^3] 任意一款 app 打开本库后进行编辑和进一步探索。如果你也使用 obsidian，想鉴借本库的一些配置、插件以及使用理念，这里是传送门：[[🍀 花园导览/🧰 本库指南/🧰 本库使用指南]]。
 - 自己试一试。你看到的全部内容，包括文字、图片、网站，都是完全开源的，如果你想知道这一套发布到 web 的流程是怎么运作的：[[🍀 花园导览/🧰 本库指南/🌏 本库发布指南]]。或许你会想知道我 [[🍀 花园导览/🧰 本库指南/Tutorials/为什么要开源笔记]]。
 
 ## 目录结构和本开箱即用库截图
@@ -46,8 +43,8 @@
 
 [![Star History Chart](https://api.star-history.com/svg?repos=oldwinter/knowledge-garden&type=Date)](https://star-history.com/#oldwinter/knowledge-garden&Date)
 
-![Alt](https://repobeats.axiom.co/api/embed/2a5fe91fc704e698437055b29741043e12f5771e.svg "Repobeats analytics image")
+## 赞助
 
-[^1]: [备发布站](https://notes.oldwinter.top/readme#%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B)
-[^2]: 目前我已经放弃 logseq 联用 obsidian 的方案，不过您依旧可以用 logseq 打开本库进行阅读。尝试过将本库导入 remnote、craft，也都是完美支持的哦，这就是 obsidian 原生 md 语法的魅力所在。
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 [^3]: VS Code 需额外安装 foam 插件后，便支持 [[Cards/双链笔记]] 的 [[Cards/wikilink]] 语法。

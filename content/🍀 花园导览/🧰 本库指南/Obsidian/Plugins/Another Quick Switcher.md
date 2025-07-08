@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Another Quick Switcher.md","title":"Another Quicker Switcher","created":"2023-01-23","modified":"2025-06-06","published":"2025-07-08T03:35:32.107+08:00","tags":["obsidian插件"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Another Quick Switcher.md","title":"Another Quicker Switcher","created":"2023-01-23","modified":"2025-06-06","published":"2025-07-08T11:59:29.076+08:00","tags":["obsidian插件"],"cssclasses":""}
 ---
 
 
