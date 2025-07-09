@@ -1,10 +1,10 @@
 ---
-{"publish":true,"permalink":"/README.md","title":"README","created":"2022-08-06","modified":"2025-07-08","published":"2025-07-08T23:03:18.705+08:00","tags":["本库教程"],"cssclasses":""}
+{"publish":true,"permalink":"/README.md","title":"README","created":"2022-08-06","modified":"2025-07-08","published":"2025-07-09T20:11:02.276+08:00","tags":["本库教程"],"cssclasses":""}
 ---
 
 
 <h1 align="center">oldwinterの数字花园</h1>
-<img src="https://img.oldwinter.top/202208211431065.svg">
+<img src="https://pub-pic.oldwinter.top/2025/07/7b98f18cfd7da449094dc1496f60d26b.svg">
 <p align="center">
 	<a href="https://garden.oldwinter.top/README">主发布站</a> |
 	<a href="https://github.com/oldwinter/knowledge-garden">源代码仓</a>
@@ -29,9 +29,9 @@
 
 - [[Spaces/2-Area/知识管理/ACCESS 笔记组织法]]
 
-![](https://img.oldwinter.top/白.png)
+![](https://pub-pic.oldwinter.top/2025/07/a3d73e67f8555a7ada5912b953fd4f33.png)
 
-![](https://img.oldwinter.top/黑.png)
+![](https://pub-pic.oldwinter.top/2025/07/144bd1681e7a1dcead3823771493be8d.png)
 
 ## 贡献与交流
 
