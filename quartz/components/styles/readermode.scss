@@ -1,3 +1,5 @@
+@use "../../styles/variables.scss" as *;
+
 .readermode {
   cursor: pointer;
   padding: 0;
@@ -60,5 +62,12 @@
     &:hover {
       opacity: 1;
     }
+  }
+}
+
+// Hide reader mode button on mobile devices
+@media all and ($mobile) {
+  .readermode {
+    display: none !important;
   }
 }
