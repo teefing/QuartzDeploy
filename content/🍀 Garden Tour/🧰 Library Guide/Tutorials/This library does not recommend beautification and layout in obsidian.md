@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend beautification and layout in obsidian.md","title":"This library does not recommend beautification and layout in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T02:04:20.516+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend beautification and layout in obsidian.md","title":"This library does not recommend beautification and layout in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T10:56:12.782+08:00","cssclasses":""}
 ---
 
 Many friends may be new to [[Spaces/2-Area/知识管理/markdown]]. They will also find that various layout formats that can be easily implemented in word cannot be achieved in markdown. So they start to look for solutions, first adding html to the md file, and then not satisfied, adding css. Finally, they achieve the same layout effect as word, but it takes much more extra time than word.

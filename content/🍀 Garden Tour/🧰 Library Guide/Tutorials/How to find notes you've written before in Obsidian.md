@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to find notes you've written before in Obsidian.md","title":"How to find notes you've written before in Obsidian","created":"2022-12-10","modified":"2023-03-14","published":"2025-07-09T01:57:59.305+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to find notes you've written before in Obsidian.md","title":"How to find notes you've written before in Obsidian","created":"2022-12-10","modified":"2023-03-14","published":"2025-07-09T10:56:01.426+08:00","cssclasses":""}
 ---
 
 - Recall one or more keywords in the title. Find it through cmd+o.

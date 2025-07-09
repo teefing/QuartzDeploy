@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Feelings during the initial learning process of Obsidian.md","title":"Feelings during the initial learning process of Obsidian","created":"2022-08-16","modified":"2023-03-14","published":"2025-07-09T01:58:13.347+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Feelings during the initial learning process of Obsidian.md","title":"Feelings during the initial learning process of Obsidian","created":"2022-08-16","modified":"2023-03-14","published":"2025-07-09T10:56:02.770+08:00","cssclasses":""}
 ---
 
 - [[Fleeting Notes]]

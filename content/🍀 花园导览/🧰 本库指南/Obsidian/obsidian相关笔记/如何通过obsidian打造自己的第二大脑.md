@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🧰 本库指南/Obsidian/obsidian相关笔记/如何通过obsidian打造自己的第二大脑.md","title":"如何通过obsidian打造自己的第二大脑","created":"2022-07-20","modified":"2023-03-14","published":"2025-07-07T17:10:23.996+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/如何通过obsidian打造自己的第二大脑.md","title":"如何通过obsidian打造自己的第二大脑","created":"2022-07-20","modified":"2023-03-14","published":"2025-07-07T17:10:23.996+08:00","cssclasses":""}
 ---
 
 

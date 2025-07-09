@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Core principles to follow when using this library.md","title":"Core principles to follow when using this library","created":"2022-08-16","modified":"2025-07-05","published":"2025-07-09T02:04:35.006+08:00","tags":["todo/continuous-iteration"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Core principles to follow when using this library.md","title":"Core principles to follow when using this library","created":"2022-08-16","modified":"2025-07-05","published":"2025-07-09T10:56:00.774+08:00","tags":["todo/continuous-iteration"],"cssclasses":""}
 ---
 
 

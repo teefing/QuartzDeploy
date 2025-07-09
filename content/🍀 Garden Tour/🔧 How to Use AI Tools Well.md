@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🔧 How to Use AI Tools Well.md","title":"🤖 How to Use AIGC Tools Well","created":"2023-03-16","modified":"2025-07-08","published":"2025-07-09T01:53:13.782+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🔧 How to Use AI Tools Well.md","title":"🤖 How to Use AIGC Tools Well","created":"2023-03-16","modified":"2025-07-08","published":"2025-07-09T10:55:57.118+08:00","cssclasses":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend doing task management in obsidian.md","title":"This library does not recommend doing task management in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T02:03:51.926+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend doing task management in obsidian.md","title":"This library does not recommend doing task management in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T10:56:13.414+08:00","cssclasses":""}
 ---
 
 You may find that I have hardly used the `-[]` checklist syntax that can be checked in this library. Instead, I use the `#todo` tag for simple task management.

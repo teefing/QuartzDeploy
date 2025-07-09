@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Cards/Properties Added/_Properties Added Readme.md","created":"2025-06-17","modified":"2025-06-17","published":"2025-07-09T15:22:20.511+08:00","tags":["workflow"],"cssclasses":""}
+{"publish":true,"permalink":"/Cards/Properties Added/_Properties Added Readme.md","created":"2025-06-17","modified":"2025-06-17","published":"2025-07-09T23:23:04.139+08:00","tags":["workflow"],"cssclasses":""}
 ---
 
 

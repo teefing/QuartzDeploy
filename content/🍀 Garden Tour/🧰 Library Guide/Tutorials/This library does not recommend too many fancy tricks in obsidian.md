@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend too many fancy tricks in obsidian.md","title":"This library does not recommend too many fancy tricks in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T02:04:06.362+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend too many fancy tricks in obsidian.md","title":"This library does not recommend too many fancy tricks in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T10:56:14.830+08:00","cssclasses":""}
 ---
 
 Perhaps, at your first glance at this library, you may be a little disappointed. Compared with cuman or rainbell or other sample libraries, it seems a bit simple. The interface color scheme is a bit "cold", and you can't see a few visual icons, so you don't know where to start.

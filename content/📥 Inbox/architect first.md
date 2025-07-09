@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/📥 Inbox/architect first.md","created":"2025-07-09","modified":"2025-07-09","published":"2025-07-09T16:04:16.557+08:00","cssclasses":""}
+{"publish":true,"permalink":"/📥 Inbox/architect first.md","created":"2025-07-09","modified":"2025-07-09","published":"2025-07-10T00:45:03.427+08:00","cssclasses":""}
 ---
 
 

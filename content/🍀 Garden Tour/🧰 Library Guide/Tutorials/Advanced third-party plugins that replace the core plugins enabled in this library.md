@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Advanced third-party plugins that replace the core plugins enabled in this library.md","title":"Advanced third-party plugins that replace the core plugins enabled in this library","created":"2023-03-02","modified":"2023-03-14","published":"2025-07-09T02:05:44.372+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Advanced third-party plugins that replace the core plugins enabled in this library.md","title":"Advanced third-party plugins that replace the core plugins enabled in this library","created":"2023-03-02","modified":"2023-03-14","published":"2025-07-09T10:55:55.698+08:00","cssclasses":""}
 ---
 
 

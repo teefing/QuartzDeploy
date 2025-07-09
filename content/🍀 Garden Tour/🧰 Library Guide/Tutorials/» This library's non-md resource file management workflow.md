@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's non-md resource file management workflow.md","aliases":"non-md resource file management attachment management","title":"» This library's non-md resource file management workflow","created":"2022-08-07","modified":"2023-03-14","published":"2025-07-09T02:00:46.570+08:00","tags":["AI-generated","workflow","file-management"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's non-md resource file management workflow.md","aliases":"non-md resource file management attachment management","title":"» This library's non-md resource file management workflow","created":"2022-08-07","modified":"2023-03-14","published":"2025-07-09T10:56:29.886+08:00","tags":["AI-generated","workflow","file-management"],"cssclasses":""}
 ---
 
 # Non-MD Resource File Management Workflow
