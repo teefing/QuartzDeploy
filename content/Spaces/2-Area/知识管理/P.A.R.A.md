@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Spaces/2-Area/知识管理/P.A.R.A.md","aliases":"什么是PARA笔记组织法 PARA","title":"PARA","created":"2022-06-09","modified":"2024-07-25","published":"2025-07-08T23:58:09.863+08:00","cssclasses":""}
+{"publish":true,"permalink":"/Spaces/2-Area/知识管理/P.A.R.A.md","aliases":"什么是PARA笔记组织法 PARA","title":"PARA","created":"2022-06-09","modified":"2024-07-25","published":"2025-07-09T15:48:44.583+08:00","cssclasses":""}
 ---
 
 

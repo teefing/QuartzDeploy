@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Tutorials/obsidian初学过程中的感受.md","title":"obsidian初学过程中的感受","created":"2022-08-16","modified":"2023-03-14","published":"2025-07-07T17:10:23.992+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🧰 本库指南/Tutorials/obsidian初学过程中的感受.md","title":"obsidian初学过程中的感受","created":"2022-08-16","modified":"2023-03-14","published":"2025-07-07T17:10:23.992+08:00","cssclasses":""}
 ---
 
 - [[Cards/闪念笔记]]

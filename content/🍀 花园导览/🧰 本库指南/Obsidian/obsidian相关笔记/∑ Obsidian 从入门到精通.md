@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/∑ Obsidian 从入门到精通.md","created":"2024-07-29","modified":"2025-07-05","published":"2025-07-07T19:02:16.553+08:00","tags":["MOC","todo"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/∑ Obsidian 从入门到精通.md","created":"2024-07-29","modified":"2025-07-05","published":"2025-07-09T14:50:13.427+08:00","tags":["MOC","todo","AI生成"],"cssclasses":""}
 ---
 
 

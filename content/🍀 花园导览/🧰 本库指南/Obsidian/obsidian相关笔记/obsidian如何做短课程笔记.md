@@ -1,9 +1,7 @@
 ---
-date created: 2022-07-26
-date modified: 2023-03-14
-title: obsidian如何做短课程笔记
-publish: true
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian如何做短课程笔记.md","title":"obsidian如何做短课程笔记","created":"2022-07-26","modified":"2023-03-14","published":"2025-07-09T15:45:47.049+08:00","cssclasses":""}
 ---
+
 
 up:: [[Sources/Courses/» 课程笔记工作流]]
 

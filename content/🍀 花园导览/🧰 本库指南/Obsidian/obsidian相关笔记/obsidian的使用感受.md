@@ -1,17 +1,13 @@
 ---
-date created: 2022-06-09
-date modified: 2023-03-14
-title: obsidian的使用感受
-publish: true
+{"publish":true,"permalink":"/🍀 花园导览/🧰 本库指南/Obsidian/obsidian相关笔记/obsidian的使用感受.md","title":"obsidian的使用感受","created":"2022-06-09","modified":"2023-03-14","published":"2025-07-09T15:48:22.320+08:00","cssclasses":""}
 ---
 
-obsidian 的使用感受
 
 ## 别人眼中的 obsidian
 
 ### Obsidian 官方介绍
 
-> Obsidian is a powerful**knowledge base**on top of a**local folder**of plain text Markdown files.
+> Obsidian is a powerful **knowledge base** on top of a **local folder** of plain text Markdown files.
 
 ### 写作之难
 
