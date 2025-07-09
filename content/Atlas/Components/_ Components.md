@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/Atlas/Components/_ Components.md","created":"2025-07-08T21:50:43.809+08:00","modified":"2025-07-08T22:28:56.181+08:00","published":"2025-07-08T22:28:56.181+08:00","cssclasses":""}
+{"publish":true,"permalink":"/Atlas/Components/_ Components.md","created":"2025-07-08T21:50:43.809+08:00","modified":"2025-07-08T21:51:52.429+08:00","published":"2025-07-08T21:51:52.429+08:00","cssclasses":""}
 ---
 
 
