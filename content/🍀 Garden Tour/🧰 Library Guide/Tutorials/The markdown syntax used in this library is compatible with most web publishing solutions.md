@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/The markdown syntax used in this library is compatible with most web publishing solutions.md","title":"The markdown syntax used in this library is compatible with most web publishing solutions","created":"2022-08-24","modified":"2023-03-14","published":"2025-07-09T10:56:05.422+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/The markdown syntax used in this library is compatible with most web publishing solutions.md","title":"The markdown syntax used in this library is compatible with most web publishing solutions","created":"2022-08-24","modified":"2023-03-14","published":"2025-07-09T09:47:21.036+08:00","cssclasses":""}
 ---
 
 [[The features and details of obsidian that I can't put down]] mentioned that obsidian has the least customized changes to markdown compared to other note-taking software. So you may have seen similar conclusions in many places. Among many note-taking software, obsidian is the best for writing long articles or blogs for this reason.

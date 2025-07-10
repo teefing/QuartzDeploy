@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's tutorial writing workflow.md","title":"» This library's tutorial writing workflow","created":"2022-08-07","modified":"2023-03-14","published":"2025-07-09T10:55:58.974+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's tutorial writing workflow.md","title":"» This library's tutorial writing workflow","created":"2022-08-07","modified":"2023-03-14","published":"2025-07-09T09:45:18.593+08:00","cssclasses":""}
 ---
 
 Question:

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend exclusive customization in obsidian.md","title":"This library does not recommend exclusive customization in obsidian","created":"2022-09-07","modified":"2023-03-14","published":"2025-07-09T10:56:15.554+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend exclusive customization in obsidian.md","title":"This library does not recommend exclusive customization in obsidian","created":"2022-09-07","modified":"2023-03-14","published":"2025-07-09T09:49:05.077+08:00","cssclasses":""}
 ---
 
 The exclusive customization here means that it could have been implemented in a way that is common to the operating system, but another set of implementation methods has to be customized in a certain software, which brings about a sense of fragmentation in the user experience and increases the operating cost of the brain because multiple sets of workflows have to be memorized.

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧀 Personal Knowledge Management.md","title":"🧀 Personal Knowledge Management","created":"2022-07-18","modified":"2024-06-10","published":"2025-07-09T10:55:56.454+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧀 Personal Knowledge Management.md","title":"🧀 Personal Knowledge Management","created":"2022-07-18","modified":"2024-06-10","published":"2025-07-09T09:43:18.666+08:00","cssclasses":""}
 ---
 
 up:: [[🍀 Garden Tour/🍀 Garden Tour]]

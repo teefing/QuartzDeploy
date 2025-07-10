@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Third-party obsidian plugins used in this library and why.md","title":"Third-party obsidian plugins used in this library and why","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-09T10:56:03.426+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Third-party obsidian plugins used in this library and why.md","title":"Third-party obsidian plugins used in this library and why","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-09T09:47:01.131+08:00","cssclasses":""}
 ---
 
 up:: [[∑ obsidian plugins]]

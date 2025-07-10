@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend embedding Iframes in obsidian.md","title":"This library does not recommend embedding Iframes in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T10:56:11.450+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/This library does not recommend embedding Iframes in obsidian.md","title":"This library does not recommend embedding Iframes in obsidian","created":"2022-09-02","modified":"2023-03-14","published":"2025-07-09T09:48:29.844+08:00","cssclasses":""}
 ---
 
 As mentioned in [[This library does not recommend doing too many fancy tricks in obsidian]], using Iframes to embed various web pages into obsidian is actually a kind of fancy trick.

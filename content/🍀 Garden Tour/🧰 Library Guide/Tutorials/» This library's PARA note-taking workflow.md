@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's PARA note-taking workflow.md","title":"» This library's PARA note-taking workflow","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-09T10:56:06.534+08:00","tags":["This library tutorial"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's PARA note-taking workflow.md","title":"» This library's PARA note-taking workflow","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-09T09:47:22.081+08:00","tags":["This library tutorial"],"cssclasses":""}
 ---
 
 x:: [[Spaces/2-Area/知识管理/P.A.R.A]], [[∑ Building a Second Brain Translation and Reading Notes]]

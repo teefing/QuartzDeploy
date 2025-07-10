@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Obsidian core plugins enabled in this library and why.md","title":"Obsidian core plugins enabled in this library and why","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-09T10:56:26.878+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Obsidian core plugins enabled in this library and why.md","title":"Obsidian core plugins enabled in this library and why","created":"2022-08-09","modified":"2023-03-14","published":"2025-07-09T09:51:09.849+08:00","cssclasses":""}
 ---
 
 ## Enabled

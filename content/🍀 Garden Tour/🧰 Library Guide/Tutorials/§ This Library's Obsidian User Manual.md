@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/§ This Library's Obsidian User Manual.md","title":"§ This Library's Obsidian User Manual","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-09T10:56:10.114+08:00","tags":["directory-note","todo/someday"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/§ This Library's Obsidian User Manual.md","title":"§ This Library's Obsidian User Manual","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-09T09:48:14.737+08:00","tags":["directory-note","todo/someday"],"cssclasses":""}
 ---
 
 x:: [[🍀 Garden Tour/🧰 Library Guide/Tutorials/» This library's tutorial writing workflow]]

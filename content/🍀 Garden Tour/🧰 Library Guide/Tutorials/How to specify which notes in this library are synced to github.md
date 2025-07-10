@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to specify which notes in this library are synced to github.md","title":"How to specify which notes in this library are synced to github","created":"2022-09-03","modified":"2023-03-14","published":"2025-07-09T10:55:59.694+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to specify which notes in this library are synced to github.md","title":"How to specify which notes in this library are synced to github","created":"2022-09-03","modified":"2023-03-14","published":"2025-07-09T09:45:25.004+08:00","cssclasses":""}
 ---
 
 Discuss scenarios based on 2 dimensions:

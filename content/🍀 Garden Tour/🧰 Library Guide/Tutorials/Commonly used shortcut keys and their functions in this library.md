@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Commonly used shortcut keys and their functions in this library.md","title":"Commonly used shortcut keys and their functions in this library","created":"2022-07-03","modified":"2023-03-14","published":"2025-07-09T10:56:26.106+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Commonly used shortcut keys and their functions in this library.md","title":"Commonly used shortcut keys and their functions in this library","created":"2022-07-03","modified":"2023-03-14","published":"2025-07-09T09:51:02.406+08:00","cssclasses":""}
 ---
 
 up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]

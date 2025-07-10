@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Why open source notes.md","title":"Why open source notes","created":"2022-08-28","modified":"2023-03-14","published":"2025-07-09T10:56:04.902+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Why open source notes.md","title":"Why open source notes","created":"2022-08-28","modified":"2023-03-14","published":"2025-07-09T09:47:14.133+08:00","cssclasses":""}
 ---
 
 ## Why open source notes

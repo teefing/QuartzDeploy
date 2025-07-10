@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» My Review Workflow.md","aliases":"Review Notes","title":"» My Review Workflow","created":"2022-08-29","modified":"2023-03-14","published":"2025-07-09T10:56:14.218+08:00","tags":["review"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» My Review Workflow.md","aliases":"Review Notes","title":"» My Review Workflow","created":"2022-08-29","modified":"2023-03-14","published":"2025-07-09T09:48:57.979+08:00","tags":["review"],"cssclasses":""}
 ---
 
 There are currently more than 5 plugins about anki or spaced repetition memory in the plugin market. I chose the [[Cards/Spaced Repetition]] plugin because it does not need to be used with anki, and you can complete card making and card memory within the obsidian software.

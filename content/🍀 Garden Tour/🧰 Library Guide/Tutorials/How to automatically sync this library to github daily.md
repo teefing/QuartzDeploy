@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to automatically sync this library to github daily.md","title":"How to automatically sync this library to github daily","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-09T10:56:04.086+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to automatically sync this library to github daily.md","title":"How to automatically sync this library to github daily","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-09T09:47:07.401+08:00","cssclasses":""}
 ---
 
 [[🍀 Garden Tour/🧰 Library Guide/Tutorials/How to specify which notes in this library are synced to github]]

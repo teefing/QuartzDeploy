@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Practical exploration of content distribution from this library to mainstream media platforms.md","title":"Practical exploration of content distribution from this library to mainstream media platforms","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-09T10:56:09.418+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Practical exploration of content distribution from this library to mainstream media platforms.md","title":"Practical exploration of content distribution from this library to mainstream media platforms","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-09T09:48:07.943+08:00","cssclasses":""}
 ---
 
 I wanted to automate it, but I found it unrealistic. I still feel more secure after previewing the articles published on these platforms. And there is a sense of ceremony when I manually click the publish button. So I didn't spend time exploring the pure automation solutions for these mainstream media platforms.

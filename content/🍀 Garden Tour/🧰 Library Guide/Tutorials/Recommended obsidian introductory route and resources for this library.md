@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Recommended obsidian introductory route and resources for this library.md","title":"Recommended obsidian introductory route and resources for this library","created":"2022-07-14","modified":"2023-03-14","published":"2025-07-09T10:56:27.542+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Recommended obsidian introductory route and resources for this library.md","title":"Recommended obsidian introductory route and resources for this library","created":"2022-07-14","modified":"2023-03-14","published":"2025-07-09T09:51:16.827+08:00","cssclasses":""}
 ---
 
 up:: [[🍀 Garden Tour/🧰 Library Guide/🧰 Library Usage Guide]]

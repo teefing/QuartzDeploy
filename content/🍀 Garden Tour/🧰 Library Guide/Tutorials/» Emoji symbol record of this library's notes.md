@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» Emoji symbol record of this library's notes.md","title":"» Emoji symbol record of this library's notes","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-09T10:56:20.458+08:00","tags":["This library tutorial"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/» Emoji symbol record of this library's notes.md","title":"» Emoji symbol record of this library's notes","created":"2022-08-05","modified":"2023-03-14","published":"2025-07-09T09:50:13.678+08:00","tags":["This library tutorial"],"cssclasses":""}
 ---
 
 ## Why introduce emoji to file names?

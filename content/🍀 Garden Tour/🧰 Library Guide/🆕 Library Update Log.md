@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/🆕 Library Update Log.md","title":"🆕 Library Update Log","created":"2022-07-01","modified":"2025-07-09","published":"2025-07-09T10:56:31.182+08:00","tags":["todo/someday"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/🆕 Library Update Log.md","title":"🆕 Library Update Log","created":"2022-07-01","modified":"2025-07-09","published":"2025-07-09T09:52:37.010+08:00","tags":["todo/someday"],"cssclasses":""}
 ---
 
 

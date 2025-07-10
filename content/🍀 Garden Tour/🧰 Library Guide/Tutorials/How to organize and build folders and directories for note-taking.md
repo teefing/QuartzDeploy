@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to organize and build folders and directories for note-taking.md","title":"How to organize and build folders and directories for note-taking","created":"2022-12-11","modified":"2023-03-14","published":"2025-07-09T10:56:19.814+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to organize and build folders and directories for note-taking.md","title":"How to organize and build folders and directories for note-taking","created":"2022-12-11","modified":"2023-03-14","published":"2025-07-09T09:49:54.958+08:00","cssclasses":""}
 ---
 
 The biggest role of a folder is resource isolation, similar to the namespace in C++. If you have a need to share, you can just throw the whole folder to others.

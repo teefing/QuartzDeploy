@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/∑ This library's ACCESS workflow summary.md","title":"∑ This library's ACCESS workflow summary","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-09T10:56:19.238+08:00","tags":["moc","todo/continuous-iteration"],"cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/∑ This library's ACCESS workflow summary.md","title":"∑ This library's ACCESS workflow summary","created":"2022-08-04","modified":"2023-03-14","published":"2025-07-09T09:49:48.138+08:00","tags":["moc","todo/continuous-iteration"],"cssclasses":""}
 ---
 
 up: [[ACCESS Note Organization Method]]

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to automatically publish this library to the web daily.md","title":"How to automatically publish this library to the web daily","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-09T10:56:12.090+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/How to automatically publish this library to the web daily.md","title":"How to automatically publish this library to the web daily","created":"2022-08-25","modified":"2023-03-14","published":"2025-07-09T09:48:30.755+08:00","cssclasses":""}
 ---
 
 To publish the obsidian note library to the web like a blog, this library currently adopts 2 third-party free solutions. For details, see [[The most perfect free publishing solution for obsidian at present - a progressive tutorial]].
