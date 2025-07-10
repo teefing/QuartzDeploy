@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Advanced third-party plugins that replace the core plugins enabled in this library.md","title":"Advanced third-party plugins that replace the core plugins enabled in this library","created":"2023-03-02","modified":"2023-03-14","published":"2025-07-09T09:43:18.654+08:00","cssclasses":""}
+{"publish":true,"permalink":"/🍀 Garden Tour/🧰 Library Guide/Tutorials/Advanced third-party plugins that replace the core plugins enabled in this library.md","title":"Advanced third-party plugins that replace the core plugins enabled in this library","created":"2023-03-02","modified":"2023-03-14","published":"2025-07-10T22:03:41.067+08:00","cssclasses":""}
 ---
 
 
@@ -8,11 +8,11 @@
 - Command palette
 	- Switched to [[Cards/Better Command Palette]].
 - Templates
-	- Switched to [[Cards/Templater]].
+	- Switched to [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Templater]].
 - Outline
 	- Switched to .
 - Sync
-	- Replaced with [[Cards/Remotely Save]]
+	- Replaced with [[🍀 花园导览/🧰 本库指南/Obsidian/Plugins/Remotely Save]]
 - Publish
 	- Replaced with [[Cards/DIgital Garden]]
 - Slides
