@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"/📥 Inbox/raycast for windows.md","created":"2025-07-09","modified":"2025-07-09","published":"2025-07-09T13:54:36.493+08:00","cssclasses":""}
+{"publish":true,"permalink":"/📥 Inbox/raycast for windows.md","created":"2025-07-09","modified":"2025-07-09","published":"2025-07-11T10:35:46.242+08:00","cssclasses":""}
 ---
 
 
@@ -10,3 +10,11 @@
 https://raycast.com/windows/46e70753
 
 https://raycast.com/windows/28e9159c
+
+
+## 使用技巧
+
+可以将常用目录或文件，设置成quicklink，一键打开。
+
+比如自启动目录就很常用：[[Spaces/2-Area/windows高效使用/windows开启开机自启动文件夹]]
+文件的话，可能常用的图片，cheatsheet之类的
