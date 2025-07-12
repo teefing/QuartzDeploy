@@ -13,7 +13,7 @@
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "dev": "npx quartz build --serve -d content",
+    "dev": "bash ./setup-submodule.sh && npx quartz build --serve -d content",
     "build": "bash ./setup-submodule.sh && npx quartz build -d content",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",

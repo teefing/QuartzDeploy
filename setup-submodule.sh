@@ -4,4 +4,4 @@ git submodule set-url content "https://${SUBMODULE_TOKEN}@github.com/teefing/obs
 
 # 初始化并更新 submodule
 git submodule sync --recursive
-git submodule update --init --recursive
+git submodule update --remote --init --recursive
