@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌱 oldwinterの数字花园",
+    pageTitle: "🌱 teefingの数字花园",
     enableSPA: true,
     pageTitleSuffix: "",
     enablePopovers: true,
     analytics: null,
     locale: "zh-CN",
-    baseUrl: "garden.oldwinter.top",
+    baseUrl: "blog.teefing.top",
     ignorePatterns: ["private", "**/*.excalidraw.md"],
     defaultDateType: "modified",
     theme: {
