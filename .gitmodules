@@ -1,3 +1,3 @@
 [submodule "content"]
 	path = content
-	url = https://github.com/teefing/obsidian-knowledge.git
+	url = https://$SUBMODULE_TOKEN@github.com/teefing/obsidian-knowledge.git
